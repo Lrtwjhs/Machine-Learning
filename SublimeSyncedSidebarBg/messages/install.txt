@@ -1,3 +1,0 @@
-Thank you for installing SyncedSidebarBG.
-
-You need to *restart* your editor for this plugin to work.
