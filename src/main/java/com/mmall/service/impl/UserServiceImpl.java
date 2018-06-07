@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 import java.util.UUID;
 
 @Service("iUserService")
-public class UserServiceimpl implements IUserService {
+public class UserServiceImpl implements IUserService {
 
     @Autowired
     private UserMapper userMapper;
